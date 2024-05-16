@@ -18,3 +18,7 @@ Neste projeto, exploramos o potencial do ChatGPT, um modelo de linguagem avança
 
    ```bash
    git clone https://github.com/PatQuei/E-book-chat-GPT.git
+
+## O E-book:
+
+https://github.com/PatQuei/E-book-chat-GPT/blob/main/Ebook%20Python%20para%20analise%20de%20Dados.pdf
