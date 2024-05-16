@@ -17,4 +17,4 @@ Neste projeto, exploramos o potencial do ChatGPT, um modelo de linguagem avança
 1. Clone este repositório para o seu ambiente local:
 
    ```bash
-   git clone https://github.com/seu_usuario/nome_do_repositorio.git
+   git clone https://github.com/PatQuei/E-book-chat-GPT.git
